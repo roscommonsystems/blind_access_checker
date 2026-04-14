@@ -1,0 +1,10 @@
+# Folders
+.venv
+/.venv
+/logs
+logs
+/data
+data
+
+# Files
+*.pyc
